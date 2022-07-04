@@ -1,0 +1,21 @@
+{
+"ads_data": [
+{
+"image":"https://googleflutter.com/wp-content/uploads/2020/01/flutter_center_align_fab.png",
+"title":"aaaa",
+"link":"chrome-extension://fgljidimohbcmjdabiecfeikkmpbjegm/apkdownload.html"
+},
+{
+"image":"https://googleflutter.com/wp-content/uploads/2020/01/flutter_center_align_fab.png",
+"title":"bbbbb",
+"link":"chrome-extension://fgljidimohbcmjdabiecfeikkmpbjegm/apkdownload.html"
+},
+{
+"image":"https://googleflutter.com/wp-content/uploads/2020/01/flutter_center_align_fab.png",
+"title":"cccc",
+"link":"chrome-extension://fgljidimohbcmjdabiecfeikkmpbjegm/apkdownload.html"
+},
+
+
+]
+}
