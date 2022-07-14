@@ -1,21 +1,9 @@
 {
 "ads_data": [
 {
-"image":"https://github.com/appsgame999/in_app_own_ads/blob/main/burger.png?raw=true",
-"title":"aaaa",
-"link":"chrome-extension://fgljidimohbcmjdabiecfeikkmpbjegm/apkdownload.html"
-},
-{
-"image":"https://github.com/appsgame999/in_app_own_ads/blob/main/burger.png?raw=true",
-"title":"bbbbb",
-"link":"chrome-extension://fgljidimohbcmjdabiecfeikkmpbjegm/apkdownload.html"
-},
-{
-"image":"https://github.com/appsgame999/in_app_own_ads/blob/main/burger.png?raw=true",
-"title":"cccc",
-"link":"chrome-extension://fgljidimohbcmjdabiecfeikkmpbjegm/apkdownload.html"
+"image":"",
+"title":"",
+"link":""
 }
-
-
 ]
 }
